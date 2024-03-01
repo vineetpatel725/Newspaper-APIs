@@ -6,4 +6,5 @@ logs/*.log
 __pycache__
 .idea/
 *.out
+!config/example.ini
 
