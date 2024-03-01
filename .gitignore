@@ -1,0 +1,9 @@
+.venv
+*_venv
+logs/*.log
+*.ini
+*-schedule
+__pycache__
+.idea/
+*.out
+
